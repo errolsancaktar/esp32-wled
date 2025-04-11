@@ -6754,7 +6754,7 @@
 		(uuid "e916fa71-e5f3-403e-8997-d61b81fcdcee")
 	)
 	(no_connect
-		(at 146.05 27.94)
+		(at 147.32 27.94)
 		(uuid "ee1d8666-4782-4b38-b279-974e9d66ce8b")
 	)
 	(wire
@@ -7049,6 +7049,16 @@
 	)
 	(wire
 		(pts
+			(xy 139.7 35.56) (xy 138.43 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2e572341-17a3-4c24-bcdc-d1de933a7923")
+	)
+	(wire
+		(pts
 			(xy 66.04 62.23) (xy 66.04 54.61)
 		)
 		(stroke
@@ -7066,6 +7076,16 @@
 			(type default)
 		)
 		(uuid "346c8501-76bc-4fbd-baa2-0a987069ff74")
+	)
+	(wire
+		(pts
+			(xy 132.08 27.94) (xy 130.81 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "39811df2-31e9-4bb5-8cb8-3b424fa0486c")
 	)
 	(wire
 		(pts
@@ -8026,6 +8046,16 @@
 			(type default)
 		)
 		(uuid "e500d865-eedb-4ebf-a323-9f29dc443a6b")
+	)
+	(wire
+		(pts
+			(xy 139.7 20.32) (xy 138.43 20.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e5604993-5a9e-44d8-a07b-69ab6cd0e38c")
 	)
 	(wire
 		(pts
@@ -14981,7 +15011,7 @@
 	)
 	(symbol
 		(lib_id "LED:WS2812B")
-		(at 138.43 27.94 0)
+		(at 139.7 27.94 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14990,7 +15020,7 @@
 		(fields_autoplaced yes)
 		(uuid "aaf31785-a2ad-4d45-bd35-c4fe6c542d02")
 		(property "Reference" "D1"
-			(at 149.86 21.5198 0)
+			(at 151.13 21.5198 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14998,7 +15028,7 @@
 			)
 		)
 		(property "Value" "WS2812B"
-			(at 149.86 24.0598 0)
+			(at 151.13 24.0598 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15006,7 +15036,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
-			(at 139.7 35.56 0)
+			(at 140.97 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15016,7 +15046,7 @@
 			)
 		)
 		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
-			(at 140.97 37.465 0)
+			(at 142.24 37.465 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15026,7 +15056,7 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
-			(at 138.43 27.94 0)
+			(at 139.7 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
