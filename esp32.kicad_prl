@@ -51,9 +51,9 @@
     "zone_display_mode": 0
   },
   "git": {
-    "repo_type": "",
-    "repo_username": "",
-    "ssh_key": ""
+    "repo_type": "https",
+    "repo_username": "errolsancaktar",
+    "ssh_key": "/Users/errol/.ssh/github-pers"
   },
   "meta": {
     "filename": "esp32.kicad_prl",
