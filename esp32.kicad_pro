@@ -522,11 +522,11 @@
         "pattern": "USB_D"
       },
       {
-        "netclass": "USBDATA",
+        "netclass": "Default",
         "pattern": "D+"
       },
       {
-        "netclass": "USBDATA",
+        "netclass": "Default",
         "pattern": "D-"
       }
     ]
